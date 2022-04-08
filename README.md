@@ -5,9 +5,11 @@ This is an application for getting weather information by searching for a city.
 <a href="https://i.imgur.com/iRhZAkA.png"><img src="https://i.imgur.com/iRhZAkA.png" width="600px"></a>
 <a href="https://i.imgur.com/LpNU9t8.png"><img src="https://i.imgur.com/LpNU9t8.png" width="600px"></a>
 
+### Reviews
+<a href="https://i.imgur.com/thGaUof.jpg"><img src="https://i.imgur.com/thGaUof.jpg" width="600px"></a>
+
 ## API doc
 To access API doc click -->  <a href ="https://openweathermap.org/current/">https://openweathermap.org/current/</a>
-
 
 ## Resources used
 - [C# language](https://ru.wikipedia.org/wiki/C_Sharp)
